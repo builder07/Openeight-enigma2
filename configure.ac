@@ -315,6 +315,7 @@ data/countries/Makefile
 data/extensions/Makefile
 data/keymaps/Makefile
 data/hw_info/Makefile
+data/rc_models/Makefile
 data/display/Makefile
 data/7segment/Makefile
 data/display/LCDAnalogClock_1_Standby/Makefile
